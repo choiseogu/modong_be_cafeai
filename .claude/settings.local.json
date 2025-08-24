@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(.gradlew.bat build)",
+      "Bash(gradlew.bat build:*)",
+      "Read(/C:\\mnt\\c\\Users\\82102\\Documents\\카카오톡 받은 파일\\modong_ai_final\\modong/**)",
+      "Bash(java:*)",
+      "Bash(gradle build)",
+      "Bash(chmod:*)",
+      "Bash(./gradlew build:*)",
+      "Bash(./gradlew:*)",
+      "Bash(taskkill:*)",
+      "Bash(powershell:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
