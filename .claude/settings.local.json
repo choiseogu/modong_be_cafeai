@@ -10,7 +10,9 @@
       "Bash(./gradlew build:*)",
       "Bash(./gradlew:*)",
       "Bash(taskkill:*)",
-      "Bash(powershell:*)"
+      "Bash(powershell:*)",
+      "Bash(dir)",
+      "Bash(.gradlew build)"
     ],
     "deny": [],
     "ask": []
